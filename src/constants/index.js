@@ -226,9 +226,9 @@ const projects = [
         source_code_link: "https://expense-tracker-frontend-rouge.vercel.app/",
     },
     {
-        name: "GPT-3 framework Frontend",
+        name: "Job-Portal",
         description:
-            "The GPT Intro project, hosted on Vercel, is a frontend application designed to demonstrate the integration of OpenAI's GPT model into a user-friendly web interface.  The deployment on Vercel ensures fast, reliable, and scalable performance. Through this project, users can experience the power of AI-driven text generation in a seamless and interactive environment, showcasing the practical applications of advanced natural language processing technologies",
+            " Built a Job Portal with recruiter and candidate functionality using Supabase. Implemented Clerk authentication for secure user management. Designed UI with ShadCN components for a clean frontend. Enabled recruiter job posts and candidate applications in a unified system. Managed sequential data storage in Supabase tables",
         tags: [
             {
                 name: "Reactjs",
@@ -239,12 +239,24 @@ const projects = [
                 color: "green-text-gradient",
             },
             {
-                name: "css",
+                name: "Tailwind",
+                color: "pink-text-gradient",
+            },
+            {
+                name: "Clerk",
+                color: "blue-text-gradient",
+            },
+            {
+                name: "SupaBase",
+                color: "green-text-gradient",
+            },
+            {
+                name: "Shadcn",
                 color: "pink-text-gradient",
             },
         ],
         image: tripguide,
-        source_code_link: "https://gptintro.vercel.app/",
+        source_code_link: "https://job-portal-itz10pankajs-projects.vercel.app/",
     },
 
 ];
