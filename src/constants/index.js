@@ -196,35 +196,7 @@ const projects = [
         image: carrent,
         source_code_link: "https://github.com/itz10pankaj/E-commerce-Frontend",
     },
-    {
-        name: "Expanse Tracker",
-        description:
-            "Developed an expense tracker application using the MERN stack (MongoDB, Express.js, React, Node.js). The application allows users to record, categorize, and visualize their expenses. Implemented user authentication, real-time data updates, and a responsive UI for a seamless user experience. Focused on efficient data management and user-friendly design to help users track their financial activities effectively.",
-        tags: [
-            {
-                name: "react",
-                color: "blue-text-gradient",
-            },
-            {
-                name: "Nodejs",
-                color: "green-text-gradient",
-            },
-            {
-                name: "Express",
-                color: "pink-text-gradient",
-            },
-            {
-                name: "JavaScript",
-                color: "blue-text-gradient",
-            },
-            {
-                name: "MongoDB",
-                color: "green-text-gradient",
-            },
-        ],
-        image: jobit,
-        source_code_link: "https://expense-tracker-frontend-rouge.vercel.app/",
-    },
+    ,
     {
         name: "Job-Portal",
         description:
@@ -257,6 +229,78 @@ const projects = [
         ],
         image: tripguide,
         source_code_link: "https://job-portal-itz10pankajs-projects.vercel.app/",
+    },
+    {
+        name: "Code-Sphere",
+        description:
+            "This project is a web-based code editor built with React, offering a smooth coding experience. It is mainly based on local storage of browser.It uses the CodeMirror library for syntax highlighting and supports languages like JavaScript, Python,Java, and C++. Users can choose from themes like GitHub Dark, Dracula, and VSCode Dark. The editor also supports full-screen mode to improve focusy.",
+        tags: [
+            {
+                name: "Reactjs",
+                color: "blue-text-gradient",
+            },
+            {
+                name: "Javascript",
+                color: "green-text-gradient",
+            },
+            {
+                name: "Tailwind",
+                color: "pink-text-gradient",
+            },
+            {
+                name: "code-mirror",
+                color: "blue-text-gradient",
+            },
+        ],
+        image: tripguide,
+        source_code_link: "https://code-editor-itz10pankajs-projects.vercel.app/",
+    },
+    {
+        name: "Vehicle Rental System",
+        description:
+            "The Vehicle Rental System is a console-based C++ application that allows users to rent vehicles such as Cars, Bikes, and Trucks. Admins can manage the vehicle inventory by adding, updating, and deleting vehicles, while users can book and return vehicles for a specified period. The system is designed using Object-Oriented Programming (OOP) principles to ensure modularity and ease of maintenance. It features a simple login system for both admins and users, with functionality for user registration. The program provides a streamlined interface for both managing and utilizing a vehicle rental service.",
+        tags: [
+            {
+                name: "C++",
+                color: "blue-text-gradient",
+            },
+            {
+                name: "Object Oriented programming",
+                color: "green-text-gradient",
+            },
+
+        ],
+        image: tripguide,
+        source_code_link: "https://code-editor-itz10pankajs-projects.vercel.app/",
+    },
+    {
+        name: "Expanse Tracker",
+        description:
+            "Developed an expense tracker application using the MERN stack (MongoDB, Express.js, React, Node.js). The application allows users to record, categorize, and visualize their expenses. Implemented user authentication, real-time data updates, and a responsive UI for a seamless user experience. Focused on efficient data management and user-friendly design to help users track their financial activities effectively.",
+        tags: [
+            {
+                name: "react",
+                color: "blue-text-gradient",
+            },
+            {
+                name: "Nodejs",
+                color: "green-text-gradient",
+            },
+            {
+                name: "Express",
+                color: "pink-text-gradient",
+            },
+            {
+                name: "JavaScript",
+                color: "blue-text-gradient",
+            },
+            {
+                name: "MongoDB",
+                color: "green-text-gradient",
+            },
+        ],
+        image: jobit,
+        source_code_link: "https://expense-tracker-frontend-rouge.vercel.app/",
     },
 
 ];
