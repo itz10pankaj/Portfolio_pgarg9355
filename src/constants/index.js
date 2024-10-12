@@ -14,8 +14,6 @@ import {
     nodejs,
     mongodb,
     git,
-    figma,
-    docker,
     meta,
     starbucks,
     tesla,
@@ -24,6 +22,7 @@ import {
     jobit,
     tripguide,
     threejs,
+    codesphere
 } from "../assets";
 
 export const navLinks = [
@@ -252,7 +251,7 @@ const projects = [
                 color: "blue-text-gradient",
             },
         ],
-        image: tripguide,
+        image: codesphere,
         source_code_link: "https://code-editor-itz10pankajs-projects.vercel.app/",
     },
     {
